@@ -1,8 +1,7 @@
 # Sliding Puzzle Game
 ## 📜 Introduction
 
-The **Sliding Puzzle** is a classic 3×3 tile game built with **HTML, CSS, and JavaScript**.
-Your goal is to arrange the numbered tiles in order by sliding them into the empty space.
+The **Sliding Puzzle** is a classic 3×3 tile game built with **HTML, CSS, and JavaScript**.Your goal is to arrange the numbered tiles in order by sliding them into the empty space.
 
 ---
 
