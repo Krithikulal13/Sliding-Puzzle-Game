@@ -10,7 +10,7 @@ The **Sliding Puzzle** is a classic 3×3 tile game built with **HTML, CSS, and J
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 * 🎮 Interactive 3×3 sliding puzzle
 * 🖱️ Click tiles adjacent to the empty space to move them
